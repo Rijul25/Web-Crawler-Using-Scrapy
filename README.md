@@ -36,3 +36,6 @@ tutorial/
 - scrapy shell 'http://quotes.toscrape.com/page/1/'
 - scrape the data and save it in a json file
 - run using scrapy crawl your_file_name , this should be from the directory of your project
+
+## For Further reading and documentation refer to ->
+> https://docs.scrapy.org/en/latest/intro/tutorial.html
